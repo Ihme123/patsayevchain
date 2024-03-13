@@ -9,7 +9,7 @@
     <img src="docs/static/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">🦜️🔗 GigaChain (GigaChat + LangChain)</h1>
+  <h1 align="center">🦜️🔗 Клон GigaChain</h1>
 
   <p align="center">
     Библиотека для разработки LangChain-style приложений на русском языке с поддержкой GigaChat
